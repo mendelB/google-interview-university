@@ -554,6 +554,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
+
 - nothing to implement
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
@@ -576,6 +577,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
     If some of the lectures are too mathy, you can jump down to the bottom and
     watch the discrete mathematics videos to get the background knowledge.
+    ```text
+    * Too Mathy for now.
+    ** Skipping for now (either a repetition of something I kinda understand or just wanna come back to this later)
+    ```
 
 ## Data Structures
 
